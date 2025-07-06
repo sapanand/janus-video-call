@@ -4,7 +4,7 @@ A Laravel-based video calling app using Janus WebRTC server for one-to-one video
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Laravel (PHP backend)
 - Janus WebRTC (media server)
@@ -13,7 +13,7 @@ A Laravel-based video calling app using Janus WebRTC server for one-to-one video
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `routes/web.php` — defines `/video` route
 - `resources/views/video.blade.php` — frontend UI with role selector
@@ -22,7 +22,7 @@ A Laravel-based video calling app using Janus WebRTC server for one-to-one video
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repo
 
