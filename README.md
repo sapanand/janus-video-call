@@ -18,7 +18,6 @@ A Laravel-based video calling app using Janus WebRTC server for one-to-one video
 - `routes/web.php` — defines `/video` route
 - `resources/views/video.blade.php` — frontend UI with role selector
 - `public/js/video.js` — handles Janus WebRTC logic (presenter/viewer)
-- `.env.example` — environment setup
 
 ---
 
